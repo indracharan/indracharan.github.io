@@ -1,9 +1,8 @@
-title: Indracharan's canvas.
-theme: jekyll-theme-slate
+title: Indracharan's canvas 🎨
+theme: minima
 
 header_pages:
   - about.md
   - blogs.md
 
-plugins:
-  - jekyll-feed
+
