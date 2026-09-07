@@ -1,0 +1,11 @@
+title: Indracharan Patil
+email: indracharan.patil@gmail.com
+description: Software Engineering Director | Lead AI Engineer
+theme: minima
+
+header_pages:
+  - about.md
+  - blogs.md
+
+plugins:
+  - jekyll-feed
