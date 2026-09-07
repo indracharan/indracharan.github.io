@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Indracharan's canvas. 🎨
 
 I am a software engineer who loves building things from scratch. Over the years, I've tackled plenty of complex systems, broken things, and figured out how to make them work. 
