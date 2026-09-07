@@ -1,6 +1,10 @@
 ---
-layout: home
+layout: page
+title: ""
+permalink: /
 ---
+# Welcome!
+
 I am a software engineer who loves building things from scratch. Over the years, I've tackled plenty of complex systems, broken things, and figured out how to make them work. 
 
 Take a look around to understand how I solve real engineering problems—and feel free to read through my blogs where I break them down.
