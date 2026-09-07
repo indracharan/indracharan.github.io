@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building Autonomous Monitoring with Agentic AI"
-date: 2024-06-15 00:00:00 +0530
+title: "Making most of AI"
+date: 2025-06-15 00:00:00 +0530
 categories: [kubernetes, ai]
 permalink: /blogs/agentic-ai-monitoring
 ---
