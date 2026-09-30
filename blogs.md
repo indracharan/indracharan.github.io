@@ -2,11 +2,12 @@
 layout: page
 title: Blogs
 permalink: /blogs/
+order: 1
 ---
 
 # IT Experience & Technical Blogs
 
-Welcome to my blog section. Here I share insights from my 16 years of experience in Software Engineering.
+Welcome to my blog section. Here I share insights from my 16 years of experience in Software Engineering and my opinion about latest technologies.
 
 <ul class="post-list">
   {% for post in site.posts %}

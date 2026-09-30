@@ -1,23 +1,27 @@
 ---
 layout: page
-title: About Me
+title: "About Me"
 permalink: /about/
+order: 2
 ---
 
-# Indracharan Patil
-**Software Engineering Director | Lead AI Engineer**
-indracharan.patil@gmail.com | Pune, India
+#  I am Indracharan!
+**Software Engineering Director | Lead AI Engineer @ UBS Pune, India** 
+
+ <a href="mailto:indracharan.patil@gmail.com" aria-label="Email Indracharan Patil" style="display: inline-flex; align-items: center; gap: 4px; white-space: nowrap;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2" /><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" /></svg>indracharan.patil@gmail.com</a>
 
 ---
 
 ## Professional Summary
-Software Engineering Director and Lead AI Engineer with 16 years of experience spanning enterprise application development and AI-driven architecture. Transitioning from extensive enterprise Java development to specializing in high-performance backend systems, RAG architectures, and data engineering pipelines. Proven track record in leading teams, optimizing infrastructure, and orchestrating Large Language Models to build autonomous, self-improving agents for robust enterprise solutions.
+I am an engineer and technology leader who thrives at the edge of the unfamiliar. With deep roots in Python, enterprise platforms, distributed systems, and modern agentic AI, I have enough experience to know that tools change—mindsets don't. I consider myself a generalist at core.
+
+I don’t tie my identity to a single framework, language, or stack. Give me a complex problem, and I will master whatever technology is required to solve it—fast, pragmatic, and production-ready. Whether building high-performance Python backends, orchestrating autonomous AI agents, or leading engineering teams through zero-to-one challenges, my focus is always the same: turning ambiguity into high-impact solutions.
 
 ## Technical Arsenal
 *   **Core Languages:** Python, Java
-*   **Frameworks & Infrastructure:** FastAPI, Pydantic, Apache Airflow, Kubernetes, OpenTelemetry, vLLM
-*   **AI & Architecture:** Agentic AI, RAG Systems, LLM Orchestration, Microservices, Distributed Systems
-*   **Cloud & Data:** Databricks, Azure Services
+*   **Frameworks & Infrastructure:** FastAPI, Pydantic, Apache Airflow, Kubernetes, OpenTelemetry, vLLM, Ollama
+*   **AI & Architecture:** Agentic AI, Chatbots, RAG Systems, LLM Orchestration, Microservices, Distributed Systems
+*   **ML & Data:** MLflow, Databricks, Azure Services, experiment tracking, model evaluation
 *   **Certifications:** Microsoft Certified: Azure Fundamentals, Microsoft Certified: Azure Data Fundamentals
 
 ---
@@ -27,7 +31,9 @@ Software Engineering Director and Lead AI Engineer with 16 years of experience s
 ### Software Engineering Director & Lead AI Engineer — UBS Business Solutions
 *April 2021 – Present*
 *   Architect and deploy autonomous monitoring systems for Kubernetes clusters, leveraging Agentic AI and OpenTelemetry to ensure high availability and self-healing capabilities.
-*   Optimize local LLM infrastructure utilizing vLLM to maximize inference efficiency and reduce latency for enterprise-grade generative AI applications.
+*   Build enterprise chatbots and RAG applications with agentic workflows, grounded responses, and production observability.
+*   Design and optimize local LLM setups using vLLM and Ollama to maximize inference efficiency, privacy, and reliability.
+*   Use MLflow for experiment tracking, model evaluation, and lifecycle management across generative AI initiatives.
 *   Design and implement scalable data engineering pipelines, integrating Databricks and Azure services for robust data processing.
 *   Lead engineering teams, guide architectural strategy across distributed microservices, and mentor developers in modern cloud and AI practices.
 
@@ -38,13 +44,3 @@ Software Engineering Director and Lead AI Engineer with 16 years of experience s
 *   Collaborated with global, cross-functional teams to deliver secure, performant software solutions.
 
 ---
-
-## Featured Projects
-
-### Autonomous Kubernetes Monitoring
-*   **Tech Stack:** Python, Agentic AI, OpenTelemetry, Kubernetes
-*   **Description:** Architected an intelligent monitoring and alerting system utilizing AI agents to autonomously debug, observe, and manage Kubernetes node health and deployments.
-
-### VS Code Devfile Generator
-*   **Tech Stack:** Python, FastAPI, Pydantic
-*   **Description:** Developed a web-based automation tool that dynamically generates standardized `devfile.yaml` configurations. Designed a streamlined interface allowing teams to select IDE extensions and instantly download configurations to standardize their VS Code development environments.

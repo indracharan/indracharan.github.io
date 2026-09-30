@@ -4,8 +4,8 @@ email: indracharan.patil@gmail.com
 theme: minima
 
 header_pages:
-  - about.md
   - blogs.md
+  - about.md
 
 plugins:
   - jekyll-feed
