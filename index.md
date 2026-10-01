@@ -17,4 +17,4 @@ Explore my professional journey and technical insights:
 
 
 ---
-*© 2026. All rights reserved. Please don't judge my late-night commits.*
+*© 2026. All rights reserved. Please don't judge my late-night commits.* · ![Site visits](https://hits.sh/indracharan.github.io.svg?style=flat-square)
